@@ -1,7 +1,0 @@
-﻿  WasEssenHeute.cpp
-C:\Users\robin\Desktop\HomeCoding\WasEssenHeute\WasEssenHeute.cpp(170,64): warning C4267: "Argument": Konvertierung von "size_t" nach "_Ty", Datenverlust möglich
-C:\Users\robin\Desktop\HomeCoding\WasEssenHeute\WasEssenHeute.cpp(170,64): warning C4267:         with
-C:\Users\robin\Desktop\HomeCoding\WasEssenHeute\WasEssenHeute.cpp(170,64): warning C4267:         [
-C:\Users\robin\Desktop\HomeCoding\WasEssenHeute\WasEssenHeute.cpp(170,64): warning C4267:             _Ty=int
-C:\Users\robin\Desktop\HomeCoding\WasEssenHeute\WasEssenHeute.cpp(170,64): warning C4267:         ]
-  WasEssenHeute.vcxproj -> C:\Users\robin\Desktop\HomeCoding\WasEssenHeute\x64\Debug\WasEssenHeute.exe

@@ -50,6 +50,12 @@ public:
          {"Schweineschnitzel", "Champignons", "Zwiebeln", "Sahne", "Petersilie", "Öl"}},
         {"Rindergulasch",
          {"Rindfleisch", "Zwiebeln", "Paprika", "Tomatenmark", "Brühe", "Gewürze"}},
+          {"Leber",
+         {"Leber", "Zwiebeln", "Kartoffeln", "Milch", "Butter", "Mischgemüse"}},
+          {"Karottensuppe",
+         {"Karotten", "Zwiebeln", "Kartoffeln", "Butter", "Brühe", "Knoblauch"}},
+          {"Hähnchenherzen",
+         {"Hähnchenherzen", "Zwiebeln", "Kartoffeln", "Milch", "Brühe", "Gewürze"}},
         {"Rinderrouladen",
          {"Rindfleisch", "Speck", "Zwiebeln", "Senf", "Gurken", "Bindfaden"}},
         {"Lachs-Sahne-Spinat mit Nudeln",
@@ -152,6 +158,7 @@ public:
             // Verarbeitung der Benutzereingabe
             switch (auswahl) {
             case 1:     // Wenn 1 eingegeben wurde
+                system("cls");
                 zufaelligesGerichtVorschlagen();
                 break;
             case 2:     // Wenn 2 eingegeben wurde

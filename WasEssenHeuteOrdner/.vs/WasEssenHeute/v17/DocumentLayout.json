@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\robin\\Desktop\\HomeCoding\\WasEssenHeute\\",
+  "WorkspaceRootPath": "C:\\Users\\robin\\Desktop\\HomeCoding\\WasEssenHeuteOrdner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76BCE6FA-4EDE-497F-BBD4-D90688F94974}|WasEssenHeute.vcxproj|C:\\Users\\robin\\Desktop\\HomeCoding\\WasEssenHeute\\WasEssenHeute.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{76BCE6FA-4EDE-497F-BBD4-D90688F94974}|WasEssenHeute.vcxproj|C:\\Users\\robin\\Desktop\\HomeCoding\\WasEssenHeuteOrdner\\WasEssenHeute.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{76BCE6FA-4EDE-497F-BBD4-D90688F94974}|WasEssenHeute.vcxproj|solutionrelative:WasEssenHeute.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WasEssenHeute.cpp",
-              "DocumentMoniker": "C:\\Users\\robin\\Desktop\\HomeCoding\\WasEssenHeute\\WasEssenHeute.cpp",
+              "DocumentMoniker": "C:\\Users\\robin\\Desktop\\HomeCoding\\WasEssenHeuteOrdner\\WasEssenHeute.cpp",
               "RelativeDocumentMoniker": "WasEssenHeute.cpp",
-              "ToolTip": "C:\\Users\\robin\\Desktop\\HomeCoding\\WasEssenHeute\\WasEssenHeute.cpp",
+              "ToolTip": "C:\\Users\\robin\\Desktop\\HomeCoding\\WasEssenHeuteOrdner\\WasEssenHeute.cpp",
               "RelativeToolTip": "WasEssenHeute.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAADUAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswC4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-25T07:06:11.565Z",
               "EditorCaption": ""
